@@ -1,4 +1,8 @@
 _repo: A-Parody-on-Patience_48723
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48723-h/images/cover.jpg
 creator:
   authors:
   - agent_name: McVicar, H. W.
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '43566'
     url: http://www.gutenberg.org/2009/agents/43566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48723#A-Parody-on-Patience
 gutenberg_issued: '2015-04-17'
 gutenberg_type: Text
 identifiers:
